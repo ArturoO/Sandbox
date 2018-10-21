@@ -1,0 +1,2 @@
+Example showing how to request data from a different origin.
+Normally the Same-origin policy doesn't allow to make an XMLHttpRequest to another domain. We can workaround this by adding 'Access-Control-Allow-Origin' header to the server handling the request.

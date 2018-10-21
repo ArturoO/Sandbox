@@ -1,0 +1,1 @@
+Example how to use JSONP to load data from a different domain.

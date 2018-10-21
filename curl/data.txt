@@ -1,0 +1,13 @@
+array(3) {
+  ["success"]=>
+  bool(true)
+  ["error"]=>
+  NULL
+  ["response"]=>
+  array(2) {
+    ["code"]=>
+    string(36) "ad3f0db2-62b6-4cf4-9027-14829d33cfd2"
+    ["state"]=>
+    string(25) "my-secret-state-123456789"
+  }
+}
